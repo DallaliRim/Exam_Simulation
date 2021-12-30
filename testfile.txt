@@ -1,0 +1,7 @@
+MC;What color is the sky?;blue;green;pink;blue
+SA;What color is the grass?;green
+TF;The door is 2m tall?;true
+SA;What is Canada's capital?;Ottawa
+SA;What is Canada's capital?;Ottawa
+SA;What is Canada's capital?;Ottawa
+MC;Choose a format;percentage;letter;passFail;percentage
